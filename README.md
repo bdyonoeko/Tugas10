@@ -1,5 +1,5 @@
 # Tugas10
-<img src="index.jpg">
-<img src="create.jpg">
-<img src="delete.jpg">
-<img src="update.png">
+<img src="index.JPG">
+<img src="create.JPG">
+<img src="delete.JPG">
+<img src="update.JPG">
