@@ -5,8 +5,8 @@
 <p>Halaman create</p>
 <img src="create.JPG">
 
-<p>Mengupdate data kulkas</p>
+<p>Mengupdate data TV</p>
 <img src="update.JPG">
 
-<p>Data kulkas telah diupdate. Baris dengan nama produk "Topi" telah dihapus</p>
+<p>Data TV telah diupdate. Baris dengan nama produk "Topi" telah dihapus</p>
 <img src="delete.JPG">
